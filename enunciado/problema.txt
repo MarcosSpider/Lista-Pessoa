@@ -1,0 +1,2 @@
+"O" 
+"1- Fazer uma lista simples implementando todos os m‚todos aprendidos. A lista deve ser do tipo Pessoa e os atributos da pessoa sÆo: nome, idade, sexo. Al‚m dos m‚todos da classe Lista, deve ter os seguintes m‚todos: um que calcula e retorna o n£mero de pessoas com idade maior de 18. Outro m‚todo: a m‚dia de todas as idades. Outro m‚todo: um que retorna a pessoa com maior idade. Outro m‚todo: deve ordenar a lista alfabeticamente. Dois m‚todos: m‚todo que retorna o n£mero de pessoas do sexo masculino e o outro, que retorna o n£mero de pessoas do sexo feminino." 
