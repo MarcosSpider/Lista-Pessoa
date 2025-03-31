@@ -123,6 +123,18 @@ public class Lista {
         }
         return maiorIdade;
     }
+    public int menorIdade(){
+        if(listaVazia()){
+            return 0;
+        }
+        int menorIdade = pessoa[0].getIdade();
+        for(int i=0; i < this.tamanho;i++){
+            if(pessoa[i].getIdade() < menorIdade){
+                menorIdade = pessoa[i].getIdade();
+            }
+        }
+        return menorIdade;
+    }
     public int pessoasMas(){
         if(listaVazia()){
             return 0;
